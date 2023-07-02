@@ -1,0 +1,277 @@
+{
+  "Ping": {
+    "embed": {
+      "title": "",
+      "api": "",
+      "client": "",
+      "footer": ""
+    },
+    "button": {
+      "title": ""
+    }
+  },
+  "Language": {
+    "embed": {
+      "error": "",
+      "footer": ""
+    }
+  },
+  "Wwyd": {
+    "embed": {
+      "title": "",
+      "footer": ""
+    }
+  },
+  "Support": {
+    "embed": {
+      "title": "",
+      "description": "",
+      "footer": ""
+    }
+  },
+  "wyCustom": {
+    "error": {
+      "paginate": "",
+      "maximum": "",
+      "empty": "",
+      "import": {
+        "att1": "",
+        "att2": "",
+        "att3": "",
+        "att4": "",
+        "att5": "",
+        "att15": "",
+        "att16": "",
+        "att17": "",
+        "att18": "",
+        "att19": "",
+        "att20": "",
+        "att21": "",
+        "att22": "",
+        "att23": "",
+        "att24": ""
+      },
+      "export": {
+        "none": ""
+      }
+    },
+    "success": {
+      "import": "",
+      "export": "",
+      "embedAdd": {
+        "title": "",
+        "descID": "",
+        "descMsg": "",
+        "descCat": "",
+        "descCont": ""
+      },
+      "embedRemove": {
+        "title": ""
+      },
+      "embedRemoveAll": {
+        "title": "",
+        "accept": "",
+        "decline": "",
+        "none": ""
+      },
+      "paginator": {
+        "title": "",
+        "descCatUseful": "",
+        "descCatUseless": ""
+      }
+    }
+  },
+  "wyType": {
+    "embed": {
+      "title": "",
+      "descDef": "",
+      "descBoth": "",
+      "descCust": ""
+    }
+  },
+  "Custom": {
+    "embed": {
+      "title": "",
+      "footer": ""
+    }
+  },
+  "WouldYou": {
+    "embed": {
+      "Usefulname": "",
+      "Uselessname": "",
+      "footer": ""
+    },
+    "replays": {
+      "disabled": ""
+    },
+    "stats": {
+      "of": "",
+      "taking": "",
+      "user": "",
+      "users": ""
+    }
+  },
+  "Random": {
+    "embed": {
+      "text1": "",
+      "text2": "",
+      "footer": ""
+    }
+  },
+  "Help": {
+    "embed": {
+      "title": "",
+      "description": "",
+      "footer": "",
+      "Fields": {
+        "name": "",
+        "value": "",
+        "privacyname": "",
+        "privacy": ""
+      }
+    },
+    "button": {
+      "title": ""
+    }
+  },
+  "Vote": {
+    "embed": {
+      "title": "",
+      "value": "",
+      "footer": ""
+    }
+  },
+  "Rather": {
+    "embed": {
+      "uselessname": "",
+      "uselessname2": "",
+      "usefulname": "",
+      "usefulname2": "",
+      "footer": "",
+      "thispower": ""
+    },
+    "replays": {
+      "disabled": ""
+    },
+    "button": {
+      "nocustom": ""
+    }
+  },
+  "REPLAY": {
+    "embed": {
+      "title": "",
+      "description": "",
+      "errorDesc": "",
+      "errorAlready": "",
+      "errorAlready2": "",
+      "cooldownSuccess": "",
+      "cooldownSuccess2": "",
+      "success": "",
+      "missingPerms": ""
+    }
+  },
+  "Guide": {
+    "embed": {
+      "title": "",
+      "description": "",
+      "name1": "",
+      "value1": "",
+      "name2": "",
+      "value2": "",
+      "name3": "",
+      "value3": "",
+      "footer": ""
+    }
+  },
+  "inter": {
+    "error": "",
+    "wait": "",
+    "again": ""
+  },
+  "webhookManager": {
+    "noWebhook": ""
+  },
+  "Settings": {
+    "errorSame": "",
+    "errorInvalid": "",
+    "intervalSame": "",
+    "intervalInvalid": "",
+    "dailyChannel": "",
+    "dailyType": "",
+    "dailyRole": "",
+    "replaySame": "",
+    "voteSame": "",
+    "cooldownInvalid": "",
+    "embed": {
+      "generalTitle": "",
+      "voteCooldown": "",
+      "replayCooldown": "",
+      "dailyInterval": "",
+      "dailyTitle": "",
+      "dailyType": "",
+      "dailyMsg": "",
+      "dailyRole": "",
+      "dailyChannel": "",
+      "dailyTimezone": "",
+      "welcomeTitle": "",
+      "welcome": "",
+      "welcomeChannel": "",
+      "welcomePing": "",
+      "footer": "",
+      "dailyThread": "",
+      "error": ""
+    },
+    "button": {
+      "dailyInterval": "",
+      "dailyChannel": "",
+      "dailyRole": "",
+      "dailyTimezone": "",
+      "dailyType": "",
+      "dailyMsg": "",
+      "voteCooldown": "",
+      "replayCooldown": "",
+      "welcomeChannel": "",
+      "welcome": "",
+      "welcomePing": "",
+      "dailyThread": ""
+    }
+  },
+  "Debug": {
+    "permissions": "",
+    "channelNotSet": "",
+    "tryToSent": "",
+    "testMessage": "",
+    "enabled": "",
+    "disabled": "",
+    "embed": {
+      "title": "",
+      "settings": "",
+      "isChannel": "",
+      "is": "",
+      "isnot": "",
+      "channel": "",
+      "can": "",
+      "cannot": "",
+      "manageWebhook": "",
+      "embedLinks": "",
+      "sendMessages": "",
+      "viewChannel": "",
+      "readMessageHistory": "",
+      "global": "",
+      "g_manageWebhooks": "",
+      "g_embedLinks": "",
+      "g_sendMessages": "",
+      "g_viewChannel": "",
+      "g_readMessageHistory": ""
+    }
+  },
+  "Voting": {
+    "Yes": "",
+    "No": ""
+  },
+  "welcome": {
+    "embed": {
+      "title": ""
+    }
+  }
+}
