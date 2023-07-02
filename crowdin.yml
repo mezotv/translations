@@ -1,7 +1,9 @@
-project_id_env: CROWDIN_PROJECT_ID
-api_token_env: CROWDIN_PERSONAL_TOKEN
-base_path: .
-base_url: 'https://api.crowdin.com'
+project_id: '572101'
+api_token_env: 'CROWDIN_PERSONAL_TOKEN'
+pull_request_title: 'chore(wy-translation): new crowdin translation 🌐'
+commit_message: 'chore(wy-translation): new translations for %original_file_name% (%language%)'
+append_commit_message: false
+
 files:
-  - source: ./
-    translation: '%locale%'
+  - source: /src/locales/en-US/**/*.json
+    translation: /src/locales/%locale%/**/%original_file_name%
